@@ -1,0 +1,45 @@
+.App {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100px;
+  padding-top:200px;
+}
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.buttons {
+  padding:10px;
+  display:flex;
+  justify-content:space-evenly;
+  width:100%;
+  }
+.buttons .btn1
+{
+  background-color:red;
+  color:black;
+  padding:10px;
+  font-weight:400;
+  font-size:20px;
+}
+.buttons .btn2
+{
+  background-color:green;
+  color:black;
+  font-weight:400;
+  font-size:20px;
+}
+.text
+{
+  text-align:center;
+  font-size:25px;
+  color:black;
+  font-weight:500;
+}
+
+
+
